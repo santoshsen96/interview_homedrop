@@ -1,0 +1,18 @@
+[
+  {
+    "shortId": 1,
+    "longUrl": "https://google.com"
+  },
+  {
+    "shortId": 2,
+    "longUrl": "https://2.com"
+  },
+  {
+    "shortId": 3,
+    "longUrl": "https://github.com"
+  },
+  {
+    "shortId": 4,
+    "longUrl": "https://google.com"
+  }
+]
